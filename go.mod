@@ -1,4 +1,4 @@
-module github.com/signaux-faibles/v0.0.1
+module github.com/signaux-faibles/inpiRncsParser
 
 go 1.16
 
