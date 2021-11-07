@@ -14,7 +14,7 @@ go get github.com/signaux-faibles/inpiRncsParser@latest
 
 `$yourRef` est pour le moment obligatoire permet d'introduire une clé `reference` dans le JSON de sortie pour aider le traçage des traitements.
 
-## todo
+## Todo
 - tests
 - une aide en ligne pour le cli
 - format de sortie csv
