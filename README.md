@@ -12,4 +12,4 @@ go get github.com/signaux-faibles/inpiRncsParser@latest
 ~/go/bin/inpiRncsParser $yourRef < yourFile.xml
 ```
 
-$yourRef permet d'introduire une clé `reference` dans le JSON de sortie pour aider le traçage des traitements.
+`$yourRef` permet d'introduire une clé `reference` dans le JSON de sortie pour aider le traçage des traitements.
